@@ -44,7 +44,7 @@ After you've dumped the game, head over to `...\bundles\ebx\audio\cars\carengine
 
 **NOTE: IF A ´ocatanedata´ FOLDER DOESN'T EXIST, THIS METHOD WILL NOT WORK FOR EXTRACTING THE SOUNDBANKS OF THE CHOSEN VEHICLE.**
 
-+ Open `ebxtottext.py` and place the address copied earlier in the `inputFolder` field.
++ Open `ebxtotasset.py` and place the address copied earlier in the `inputFolder` field.
 
 + The `dumpDirectory` field is self explanatory - should point to your dump directory. More explicitly, the targetDirectory specified in the dumper is the same as the dumpDirectory to be specified here.
 
